@@ -14,7 +14,7 @@
 - Power Query
 
 ## 📸 Dashboard Snapshots:
-See `Screenshots` folder for visual samples.
+See `Screenshots`  for visual samples.
 
 ## 📃 Dataset:
 Synthetic dataset generated for learning purposes.
